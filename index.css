@@ -1,0 +1,40 @@
+.nav1 {
+    margin: 50px 1750px 50px 500px;
+    padding: 30px;
+    background-color: #FF764E;
+    border-radius: 25px;
+
+
+
+}
+.nav2 {
+    margin: 50px 1750px 50px 500px;
+    padding: 30px;
+    background-color: #5ED3EB;
+    border-radius: 25px;
+
+
+}
+.nav3 {
+    margin: 50px 1750px 50px 500px;
+    padding: 30px;
+    background-color: #FFCD69;
+    border-radius: 25px;
+
+
+}
+.img {
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+}
+h1 {
+    font-family: 'Chelsea Market', cursive;
+}
+p {
+    font-family: 'Chelsea Market', cursive;
+}
+.fire {
+    height: 200px;
+    width: 200px;
+}
